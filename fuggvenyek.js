@@ -11,3 +11,5 @@ let nev = prompt("Adja meg a nevét!");
 
 console.log(udv());}());
 console.log(nev)
+
+
